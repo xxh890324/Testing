@@ -4,7 +4,7 @@ from XTestRunner import HTMLTestRunner
 
 
 if __name__ == '__main__':
-    # 定义测试用例的目录为当前目录
+    # 定义测试用例的目录为当前目录9999999
     test_dir = './test_case'
     suit = unittest.defaultTestLoader.discover(start_dir=test_dir,
                                                pattern='test_*.py')
