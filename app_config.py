@@ -1,7 +1,7 @@
 from appium.options.android import UiAutomator2Options
 
 
-# 标准化APP配置
+# 标准化APP配置测试0901修改
 CAPS = {
     "deviceName": " 24090RA29C",
     "automationName": "Appium",
